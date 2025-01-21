@@ -3,7 +3,7 @@
 #### Technical Skills: Excel, Python, SQL, Pandas, NumPy, Tableau, PowerBI
 
 ## Education
-- B.B.A. in Business Analytics | University of North Texas (December 2024)
+- B.B.A. in Business Analytics | University of North Texas
   - Honors: President's List, Dean's List, 3.8 GPA
 
 ## Projects
