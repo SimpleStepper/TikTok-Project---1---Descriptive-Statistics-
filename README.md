@@ -11,9 +11,9 @@
 ---
 #### Project Link - [TikTok Data Exploration Project](https://github.com/SimpleStepper/GADA_Project_1-TikTok_Data_Exploration)
 This Python project is the first project in Google's Advanced Data Analytics Course. It focused on analyzing a dataset from TikTok containing video statistics which include metrics such as views, likes, shares, downloads, and comments. The goal of this project is: 
- - build a dataframe for the claims classification data
- -  develop exploratory statistics (mean, median, min, max) and develop initial observations of the dataset
- -  organize the data for further data analysis in future projects. 
+ - Build a dataframe for the claims classification data
+ - Develop exploratory statistics (mean, median, min, max) and develop initial observations of the dataset
+ - Organize the data for further data analysis in future projects. 
 
 #### *Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy*
 
