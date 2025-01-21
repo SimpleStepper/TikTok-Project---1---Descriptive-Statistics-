@@ -12,7 +12,7 @@
 This Python project is the first project in Google's Advanced Data Analytics Course. It focused on analyzing a dataset from TikTok containing video statistics which include metrics such as views, likes, shares, downloads, and comments. The goal of this project was to build a dataframe for the claims classification data, develop exploratory statistics, develop initial observations and organize the data for further data analysis in future projects. 
 
 **Technical Skills - Python, Jupyter Notebooks, Pandas, NumPy**
-
+---
 ### Dating Application Data Warehousing 
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/MatchPlusWarehouse)
 Data Warehousing Capstone Project – Dating Application Analysis
@@ -22,3 +22,4 @@ As part of my Data Warehousing course at UNT, I developed a comprehensive data w
 - Creating an interactive Power BI dashboard to present insights offering a clear view of user trends and engagement metrics.
 
 **Technical skills - Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, Data Visualization**
+---
