@@ -1,5 +1,5 @@
 title: Robert Smith
-![alt text](https://github.com/SimpleStepper/Portfolio/blob/main/assets/img/me2.png)
+image: "https://github.com/SimpleStepper/Portfolio/blob/main/assets/img/me2.png?raw=true"
 #Description: Text
 #show_downloads: false
 theme: jekyll-theme-minimal
