@@ -1,5 +1,6 @@
 title:      Robert Smith
 logo: "https://raw.githubusercontent.com/SimpleStepper/Portfolio/main/assets/img/me2.png"
 #Description: Text
-#show_downloads: false
+show_downloads: false
+show_github_link: false
 theme: jekyll-theme-minimal
