@@ -1,4 +1,4 @@
-# Data Analytics
+# Data Analytics | Data Science | Data Visualization
 
 #### Technical Skills: Excel, Python, SQL, Pandas, NumPy, Tableau, PowerBI
 
