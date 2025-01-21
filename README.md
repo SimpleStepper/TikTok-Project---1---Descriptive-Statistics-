@@ -9,7 +9,6 @@
 ## Projects
 ### TikTok Data Exploration - Google Advanced Data Analytics Project 1
 #### Project Link - 
-Project background - 
-This Python project is the first project in Google's Advanced Data Analytics Course. It focused on analyzing a dataset from TikTok containing video statistics which include metrics such as views, likes, shares, downloads, and comments. The goal of this project was to build a dataframe for the claims classification data. After the dataframe is made, the claims data was organized for further exploratory data analysis.
+This Python project is the first project in Google's Advanced Data Analytics Course. It focused on analyzing a dataset from TikTok containing video statistics which include metrics such as views, likes, shares, downloads, and comments. The goal of this project was to build a dataframe for the claims classification data. After the dataframe was made, the claims data was organized for further exploratory data analysis in future projects.
 
 Technical Skills - Python, Pandas, NumPy
