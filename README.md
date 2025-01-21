@@ -13,7 +13,7 @@ This Python project is the first project in Google's Advanced Data Analytics Cou
 
 **Technical Skills - Python, Jupyter Notebooks, Pandas, NumPy**
 
-### Dating Application DataWarehousing 
+### Dating Application Data Warehousing 
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/MatchPlusWarehouse)
 Data Warehousing Capstone Project – Dating Application Analysis
 As part of my Data Warehousing course at UNT, I developed a comprehensive data warehouse and solutions to analyze and visualize key performance indicators (KPIs) for a dating application. The project included:
