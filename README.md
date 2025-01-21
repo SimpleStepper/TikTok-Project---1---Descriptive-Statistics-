@@ -18,7 +18,7 @@ This Python project is the first project in Google's Advanced Data Analytics Cou
 Data Warehousing Capstone Project – Dating Application Analysis
 As part of my Data Warehousing course at UNT, I developed a comprehensive data warehouse and solutions to analyze and visualize key performance indicators (KPIs) for a dating application. The project included:
 - Designing conceptual and logical data models tailored to the application's framework.
-- Implementing an SQL-based data warehouse to organize and store application data efficiently.
-- Creating an interactive Power BI dashboard to present actionable insights and KPIs, offering a clear view of user trends and engagement metrics.
+- Implementing an SQL-based data warehouse to organize and store application data.
+- Creating an interactive Power BI dashboard to present insights offering a clear view of user trends and engagement metrics.
 
 **Technical skills - Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, Data Visualization**
