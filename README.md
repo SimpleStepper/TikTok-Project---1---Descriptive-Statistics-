@@ -17,7 +17,7 @@ This Python project is the first project in Google's Advanced Data Analytics Cou
 
 #### *Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy*
 
-### Dating Application Data Warehousing 
+### Dating Application Data Warehousing  
 ---
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/MatchPlusWarehouse)
 Data Warehousing Capstone Project – Dating Application Analysis
